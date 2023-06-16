@@ -1,0 +1,32 @@
+{
+    "symbols": [
+        
+        {
+            "symbol": "2302",           
+            "min_qty": 2,
+            "max_iter": 100,
+            "mul_profit": 3,
+            "price_step": 1
+        },
+        
+        
+         {
+            "symbol": "1250",           
+            "min_qty": 1,
+            "max_iter": 100,
+            "mul_profit": 3,
+            "price_step": 1
+        },
+
+        {
+            "symbol": "1900",           
+            "min_qty": 1,
+            "max_iter": 100,
+            "mul_profit": 1,
+            "price_step": 0.5
+        }
+    ],
+    "users": ["ravi"]
+}
+
+
