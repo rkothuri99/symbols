@@ -1,7 +1,7 @@
 {
    "control": {
     "symbol": "all",
-    "command": "wait"   
+    "command": "continue"   
   }
 
 }
